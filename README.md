@@ -1,2 +1,2 @@
 # hello-world
-Apenas no repositório
+Eu quero ver minha série
